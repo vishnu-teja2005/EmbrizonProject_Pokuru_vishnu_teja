@@ -1,0 +1,23 @@
+# House Price Estimator
+
+A regression project that predicts house prices based on area and number of bedrooms using Linear Regression.
+
+## Technologies Used
+- Python
+- Pandas
+- Seaborn
+- Scikit-learn
+
+## How it Works
+- The model uses area (sq.ft) and bedroom count as input features.
+- It trains a linear regression model and predicts house prices.
+- A new prediction is made for 1600 sq.ft with 3 bedrooms.
+
+## Output
+- Predicted vs actual prices
+- Mean Squared Error (MSE)
+- R² score
+- Predicted price for custom input
+
+## Author
+Pokuru Vishnu Teja – AIML, CSE, Bharath University
