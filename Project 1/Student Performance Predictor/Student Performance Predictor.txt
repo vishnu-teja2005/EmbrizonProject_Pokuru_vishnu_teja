@@ -1,0 +1,22 @@
+# Student Performance Predictor
+
+This project predicts whether a student will pass or fail based on the number of study hours using Logistic Regression.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## How it Works
+- The dataset contains 10 student entries with hours studied and result (0 = Fail, 1 = Pass).
+- A Logistic Regression model is trained and evaluated.
+- A custom prediction is made based on 6.5 hours of study.
+
+## Output
+- Confusion Matrix
+- Accuracy & Precision from classification report
+- Predicted result for 6.5 hours
+
+## Author
+Pokuru Vishnu Teja – AIML, CSE, Bharath University
